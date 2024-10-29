@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DO8EAWOP.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Novel/青蛙/血影.md","filePath":"Novel/青蛙/血影.md"}'),o={name:"Novel/青蛙/血影.md"};function r(s,c,n,_,p,d){return a(),t("div")}const m=e(o,[["render",r]]);export{l as __pageData,m as default};
