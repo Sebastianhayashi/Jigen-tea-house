@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CGHvQLJz.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"novel/青蛙/第三個.md","filePath":"novel/青蛙/第三個.md"}'),o={name:"novel/青蛙/第三個.md"};function n(r,s,c,_,p,d){return a(),t("div")}const m=e(o,[["render",n]]);export{l as __pageData,m as default};
